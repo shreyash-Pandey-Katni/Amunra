@@ -1,0 +1,21 @@
+trade_id,date,fund_name,instrument_name,exchange,direction,qty,price,instrument_type,sector,broker,custodian,ucc_code,notes
+TX-10001,15-Jan-2025,Alpha Growth Fund,RELIANCE INDUSTRIES LTD,NSE,BUY,500,2450.75,EQ,OIL & GAS,BROKER_A,CUSTODIAN_X,UCC001,"Initiated position post Q3 results beat. Management guidance raised."
+TX-10002,15-Jan-2025,Alpha Growth Fund,HDFC BANK LIMITED,NSE,BUY,1000,1625.30,EQ,BFSI,BROKER_A,CUSTODIAN_X,UCC001,"Core banking allocation increase per IC recommendation"
+TX-10003,2025-01-20,Alpha Growth Fund,NIFTY 25JAN25 23000 PE,NSE,Buy,50,125.00,OPT,INDEX,BROKER_B,CUSTODIAN_X,UCC001,Protective put hedge for Jan expiry
+TX-10004,03/02/2025,Beta Value Fund,RIL,NSE,BUY,800,2380.50,EQUITY,Energy,BROKER_A,CUSTODIAN_Y,UCC002,Value entry on 3% dip from recent highs
+TX-10005,2025-02-05,Alpha Growth Fund,RELIANCE,NSE,SELL,200,2510,EQ,Energy,BROKER_B,CUSTODIAN_X,UCC001,"Partial profit booking after 2.4% rally. Retained core position."
+TX-10006,10-Feb-2025,Beta Value fund,HDFC BANK,NSE,BUY,600,1598.00,EQ,Banking,BROKER_A,CUSTODIAN_Y,UCC002,Accumulated on sector weakness post RBI policy
+TX-10007,2025-02-12,Alpha Growth Fund,TATA CONSULTANCY SERVICES,NSE,BUY,300,3820.00,EQ,Information Technology,BROKER_C,CUSTODIAN_X,UCC001,Added IT exposure ahead of Q4 earnings season
+TX-10008,15-Feb-2025,Beta Value Fund,ICICI BANK LTD,NSE,BUY,1200.00,1045.75,EQ,BFSI,BROKER_A,CUSTODIAN_Y,UCC002,"ICICI undervalued vs HDFC on P/B basis per our model"
+TX-10009,2025-02-20,Alpha Growth Fund,HDFCBANK,NSE,SELL,500,1670.00,EQ,BANKS,BROKER_B,CUSTODIAN_X,UCC001,Trimmed after 2.8% outperformance vs sectoral index
+TX-10010,01-Mar-2025,Gamma MidCap Fund,PERSISTENT SYSTEMS LTD,NSE,BUY,400,5200.00,EQ,IT,BROKER_C,CUSTODIAN_Z,UCC003,Midcap IT conviction pick - strong deal pipeline
+TX-10011,2025-03-05,Gamma Midcap Fund,COFORGE LIMITED,NSE,BUY,350,6150.00,EQ,IT Services,BROKER_C,CUSTODIAN_Z,UCC003,IT services basket - mid tier exposure
+TX-10012,10-03-2025,Beta Value Fund,STATE BANK OF INDIA,NSE,BUY,2000,620.50,EQ,PSU Banks,BROKER_A,CUSTODIAN_Y,UCC002,PSU bank rerating thesis - improving asset quality
+TX-10013,2025-03-12,Alpha Growth Fund,RELIANCE INDS,NSE,BUY,100,2490.00,EQ,Oil Gas & Consumable Fuels,BROKER_B,CUSTODIAN_X,UCC001,Re-added on Jio tariff hike news. Telecom segment catalyst.
+TX-10014,March 15 2025,Gamma MidCap Fund,ZOMATO LTD,NSE,BUY,1500,215.00,EQ,Consumer Services,BROKER_D,CUSTODIAN_Z,UCC003,"Profitability inflection play - adjusted EBITDA turning positive"
+TX-10015,2025-03-18,Alpha Growth Fund,INFOSYS LTD,NSE,BUY,400,1580.00,EQ,IT / Technology,BROKER_C,CUSTODIAN_X,UCC001,"Diversifying IT exposure beyond TCS. Attractive valuation at 24x fwd PE."
+TX-10016,2025-03-20,,RELIANCE INDUSTRIES,BSE,BUY,150,2495.00,EQ,Energy,,CUSTODIAN_X,UCC001,Missing fund name entry - data quality issue
+TX-10017,2025-03-22,Alpha Growth Fund,RELIANCE INDUSTRIES LTD,NSE,BUY,-50,2505.00,EQ,Energy,BROKER_A,CUSTODIAN_X,UCC001,Negative quantity - likely a SELL recorded as BUY
+TX-10018,2025-03-25,Delta Arbitrage Fund,NIFTY 27MAR25 23500 CE,NSE,BUY,100,85.50,OPT,INDEX,BROKER_E,CUSTODIAN_W,UCC004,"New fund not in master - arbitrage strategy leg 1"
+TX-10019,2025-03-25,Delta Arbitrage Fund,NIFTY 27MAR25 23500 PE,NSE,SELL,100,92.00,OPT,INDEX,BROKER_E,CUSTODIAN_W,UCC004,"Arbitrage strategy leg 2 - paired with CE buy"
+TX-10020,2025-03-28,Beta Value Fund,HDFC Bank Ltd.,NSE,BUY,400,1640.00,EQ,BANKING & FINANCE,BROKER_A,CUSTODIAN_Y,UCC002,Continued accumulation. Note: HDFC Bank has 5 different name variations in this dataset.

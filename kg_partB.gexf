@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-31">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="etype" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="ntype" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Alpha Growth Fund" label="Alpha Growth Fund">
+        <attvalues>
+          <attvalue for="0" value="Fund" />
+        </attvalues>
+      </node>
+      <node id="RELIANCE" label="RELIANCE">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="INFY" label="INFY">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="HDFCBANK" label="HDFCBANK">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="TCS" label="TCS">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="NIFTY25JAN2523000PE" label="NIFTY25JAN2523000PE">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="Beta Value Fund" label="Beta Value Fund">
+        <attvalues>
+          <attvalue for="0" value="Fund" />
+        </attvalues>
+      </node>
+      <node id="SBIN" label="SBIN">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="ICICIBANK" label="ICICIBANK">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="Gamma MidCap Fund" label="Gamma MidCap Fund">
+        <attvalues>
+          <attvalue for="0" value="Fund" />
+        </attvalues>
+      </node>
+      <node id="ZOMATO" label="ZOMATO">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="COFORGE" label="COFORGE">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="PERSISTENT" label="PERSISTENT">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="Delta Arbitrage Fund" label="Delta Arbitrage Fund">
+        <attvalues>
+          <attvalue for="0" value="Fund" />
+        </attvalues>
+      </node>
+      <node id="NIFTY27MAR2523500PE" label="NIFTY27MAR2523500PE">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="NIFTY27MAR2523500CE" label="NIFTY27MAR2523500CE">
+        <attvalues>
+          <attvalue for="0" value="Instrument" />
+        </attvalues>
+      </node>
+      <node id="Oil &amp; Gas" label="Oil &amp; Gas">
+        <attvalues>
+          <attvalue for="0" value="Sector" />
+        </attvalues>
+      </node>
+      <node id="Banking" label="Banking">
+        <attvalues>
+          <attvalue for="0" value="Sector" />
+        </attvalues>
+      </node>
+      <node id="Index" label="Index">
+        <attvalues>
+          <attvalue for="0" value="Sector" />
+        </attvalues>
+      </node>
+      <node id="IT" label="IT">
+        <attvalues>
+          <attvalue for="0" value="Sector" />
+        </attvalues>
+      </node>
+      <node id="Consumer Services" label="Consumer Services">
+        <attvalues>
+          <attvalue for="0" value="Sector" />
+        </attvalues>
+      </node>
+      <node id="Priya Sharma" label="Priya Sharma">
+        <attvalues>
+          <attvalue for="0" value="Analyst" />
+        </attvalues>
+      </node>
+      <node id="Vikram Mehta" label="Vikram Mehta">
+        <attvalues>
+          <attvalue for="0" value="Analyst" />
+        </attvalues>
+      </node>
+      <node id="Amit Patel" label="Amit Patel">
+        <attvalues>
+          <attvalue for="0" value="Analyst" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Alpha Growth Fund" target="RELIANCE" id="0">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="Alpha Growth Fund" target="INFY" id="1">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="Alpha Growth Fund" target="HDFCBANK" id="2">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="Alpha Growth Fund" target="TCS" id="3">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="Alpha Growth Fund" target="NIFTY25JAN2523000PE" id="4">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="RELIANCE" target="Oil &amp; Gas" id="5">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+      <edge source="RELIANCE" target="Amit Patel" id="6">
+        <attvalues>
+          <attvalue for="1" value="COVERED_BY" />
+        </attvalues>
+      </edge>
+      <edge source="INFY" target="IT" id="7">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+      <edge source="INFY" target="Priya Sharma" id="8">
+        <attvalues>
+          <attvalue for="1" value="COVERED_BY" />
+        </attvalues>
+      </edge>
+      <edge source="INFY" target="Vikram Mehta" id="9">
+        <attvalues>
+          <attvalue for="1" value="COVERED_BY" />
+        </attvalues>
+      </edge>
+      <edge source="HDFCBANK" target="Banking" id="10">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+      <edge source="HDFCBANK" target="Priya Sharma" id="11">
+        <attvalues>
+          <attvalue for="1" value="COVERED_BY" />
+        </attvalues>
+      </edge>
+      <edge source="TCS" target="IT" id="12">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+      <edge source="TCS" target="Priya Sharma" id="13">
+        <attvalues>
+          <attvalue for="1" value="COVERED_BY" />
+        </attvalues>
+      </edge>
+      <edge source="TCS" target="Vikram Mehta" id="14">
+        <attvalues>
+          <attvalue for="1" value="COVERED_BY" />
+        </attvalues>
+      </edge>
+      <edge source="NIFTY25JAN2523000PE" target="Index" id="15">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+      <edge source="Beta Value Fund" target="HDFCBANK" id="16">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="Beta Value Fund" target="SBIN" id="17">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="Beta Value Fund" target="ICICIBANK" id="18">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="Beta Value Fund" target="RELIANCE" id="19">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="SBIN" target="Banking" id="20">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+      <edge source="SBIN" target="Priya Sharma" id="21">
+        <attvalues>
+          <attvalue for="1" value="COVERED_BY" />
+        </attvalues>
+      </edge>
+      <edge source="ICICIBANK" target="Banking" id="22">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+      <edge source="ICICIBANK" target="Priya Sharma" id="23">
+        <attvalues>
+          <attvalue for="1" value="COVERED_BY" />
+        </attvalues>
+      </edge>
+      <edge source="Gamma MidCap Fund" target="ZOMATO" id="24">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="Gamma MidCap Fund" target="COFORGE" id="25">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="Gamma MidCap Fund" target="PERSISTENT" id="26">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="ZOMATO" target="Consumer Services" id="27">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+      <edge source="ZOMATO" target="Amit Patel" id="28">
+        <attvalues>
+          <attvalue for="1" value="COVERED_BY" />
+        </attvalues>
+      </edge>
+      <edge source="COFORGE" target="IT" id="29">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+      <edge source="COFORGE" target="Vikram Mehta" id="30">
+        <attvalues>
+          <attvalue for="1" value="COVERED_BY" />
+        </attvalues>
+      </edge>
+      <edge source="PERSISTENT" target="IT" id="31">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+      <edge source="PERSISTENT" target="Vikram Mehta" id="32">
+        <attvalues>
+          <attvalue for="1" value="COVERED_BY" />
+        </attvalues>
+      </edge>
+      <edge source="Delta Arbitrage Fund" target="NIFTY27MAR2523500PE" id="33">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="Delta Arbitrage Fund" target="NIFTY27MAR2523500CE" id="34">
+        <attvalues>
+          <attvalue for="1" value="HOLDS" />
+        </attvalues>
+      </edge>
+      <edge source="NIFTY27MAR2523500PE" target="Index" id="35">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+      <edge source="NIFTY27MAR2523500CE" target="Index" id="36">
+        <attvalues>
+          <attvalue for="1" value="BELONGS_TO" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

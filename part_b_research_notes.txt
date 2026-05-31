@@ -1,0 +1,86 @@
+============================================================
+RESEARCH NOTE: Indian Banking Sector Outlook - Q1 FY26
+Analyst: Priya Sharma | Date: March 20, 2025
+Classification: Internal - Investment Committee Only
+============================================================
+
+EXECUTIVE SUMMARY
+
+The Indian banking sector continues to show structural improvement driven by declining NPAs, improving credit growth, and favorable regulatory tailwinds. We maintain OVERWEIGHT on private banks and upgrade PSU banks to NEUTRAL from UNDERWEIGHT.
+
+HDFC Bank remains our top pick in large-cap private banking. Post-merger integration is progressing well, with the CASA ratio recovering to 38.2% in Q3 FY25 from the post-merger low of 35.5%. We see 15-18% earnings CAGR over FY25-27E. Current valuation of 2.8x P/BV is attractive versus historical average of 3.4x.
+
+ICICI Bank is our second preference. Asset quality continues to surprise positively with GNPA ratio at 2.2% (vs 3.1% YoY). The bank's return on equity of 17.5% is the highest among large private banks. We expect ROE to sustain at 16-18% over the medium term.
+
+Among PSU banks, State Bank of India (SBI) offers the best risk-reward. The stock trades at 1.4x P/BV versus its 10-year average of 1.1x, but we believe the rerating is justified given structural improvement in asset quality (GNPA at 2.4% vs 5.0% in FY22) and operating efficiency. Credit cost normalization to 0.5-0.6% (vs 1.2% in FY22) provides significant earnings visibility.
+
+KEY RISKS:
+- RBI rate cuts slower than expected - could impact NIM expansion thesis
+- Unsecured lending stress - early signs visible in credit card and personal loan segments
+- Global risk-off event leading to FII outflows from banking sector
+- HDFC Bank merger integration hiccups affecting near-term growth
+
+SECTOR CORRELATION NOTES:
+Banking sector performance is closely correlated with:
+- RBI monetary policy direction (direct NIM impact)
+- GDP growth trajectory (credit growth proxy)
+- Real estate sector health (mortgage book quality)
+- IT sector (through TCS, Infosys employee salary accounts - retail deposit proxy)
+
+============================================================
+RESEARCH NOTE: IT Services - Navigating the AI Transition
+Analyst: Vikram Mehta | Date: March 22, 2025
+Classification: Internal - Investment Committee Only
+============================================================
+
+EXECUTIVE SUMMARY
+
+We are cautiously optimistic on Indian IT services. While traditional service lines face headwinds from AI-driven automation, companies investing early in GenAI capabilities are seeing new revenue streams. Our preferred names are TCS (large-cap stability) and Persistent Systems (mid-cap growth).
+
+TCS: The bellwether remains well-positioned with its AI.Cloud platform generating $900M+ in deal TCV in FY25. However, discretionary spending recovery has been slower than expected, particularly in BFSI and retail verticals. We model 7-9% USD revenue CAGR over FY25-27E. Current valuation at 28x forward PE is fair - we maintain HOLD.
+
+Infosys: Post the CEO transition, execution has been mixed. Large deal wins have improved ($4.1B TCV in 9M FY25) but margins remain under pressure from wage hikes and onshore delivery mix. The Topaz AI platform is gaining traction. We see Infosys as a turnaround story at 24x forward PE - maintain ACCUMULATE.
+
+Persistent Systems: Our top mid-cap IT pick. Revenue CAGR of 18% over last 3 years driven by healthcare and BFSI verticals. EBITDA margins have expanded 300bps to 16.5% as the company scales. The recent AWS partnership for GenAI solutions opens a significant TAM. Expensive at 42x forward PE but justified by growth visibility. STRONG BUY.
+
+Coforge: Solid execution with 14% revenue CAGR. Insurance and travel verticals provide differentiation. Recent acquisition of a European digital services firm adds geographic diversification. At 32x forward PE, risk-reward is balanced. HOLD.
+
+CROSS-SECTOR LINKAGES:
+- IT sector is a key employer driving urban consumption (consumer discretionary correlation)
+- Rupee depreciation is a tailwind for IT (every 1% depreciation adds ~40bps to margins)
+- Banking sector health directly impacts BFSI vertical revenues (our banking OVERWEIGHT supports IT demand thesis)
+- Persistent Systems has significant exposure to US healthcare - any ACA/Medicare policy changes are relevant
+
+============================================================
+RESEARCH NOTE: Reliance Industries - Sum of Parts Update
+Analyst: Amit Patel | Date: March 25, 2025
+Classification: Internal - Investment Committee Only
+============================================================
+
+EXECUTIVE SUMMARY
+
+We update our SOTP valuation for Reliance Industries post the Jio tariff hike announcement and New Energy segment developments.
+
+VALUATION SUMMARY (per share):
+- O2C (Oil to Chemicals): Rs 850 (7x FY26E EBITDA - GRM normalization drag)
+- Jio Platforms: Rs 1,050 (28x FY26E EBITDA - tariff hike adds Rs 12,000 Cr to revenue)
+- Retail: Rs 480 (35x FY26E EBITDA - margin improvement story)
+- New Energy: Rs 200 (speculative - gigafactory commissioning in H2 FY26)
+- Net Debt adjustment: -Rs 80
+TOTAL SOTP: Rs 2,500
+Current Market Price: Rs 2,495
+Recommendation: HOLD (previously BUY - target largely achieved)
+
+KEY DEVELOPMENTS:
+1. Jio tariff hike of 12-15% effective April 2025. ARPU expected to reach Rs 210 by Q2 FY26 (vs Rs 195 currently). This is the primary catalyst we had been waiting for.
+
+2. Retail segment: Store count reached 18,500+. Quick commerce pilot through JioMart showing early traction in Mumbai and Delhi. However, competition from Blinkit (Zomato subsidiary) and Instamart is intense.
+
+3. New Energy: Gigafactory Phase 1 (solar cells) commissioning delayed by 2 months. Green hydrogen pilot with NTPC progressing. We reduce New Energy valuation by Rs 30/share on execution delay.
+
+CROSS-HOLDINGS AND CORRELATIONS:
+- Reliance retail expansion directly competes with Zomato's quick commerce arm
+- Jio platform growth impacts telecom sector (Bharti Airtel, Vi competitive dynamics)
+- O2C segment margins correlate with global crude prices and Singapore GRM
+- New Energy pivot creates correlation with global solar/EV supply chain
+- The company's net debt position is partly funded through banking relationships - any credit tightening affects capex plans
